@@ -1,2 +1,2 @@
-simple Caculator with Js
+simple Caculator with Js!
 
